@@ -1,0 +1,15 @@
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\bin\Debug\netcoreapp3.1\TikTakTo_NN_49102.exe
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\bin\Debug\netcoreapp3.1\TikTakTo_NN_49102.deps.json
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\bin\Debug\netcoreapp3.1\TikTakTo_NN_49102.runtimeconfig.json
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\bin\Debug\netcoreapp3.1\TikTakTo_NN_49102.runtimeconfig.dev.json
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\bin\Debug\netcoreapp3.1\TikTakTo_NN_49102.dll
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\bin\Debug\netcoreapp3.1\TikTakTo_NN_49102.pdb
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.csprojAssemblyReference.cache
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.Form1.resources
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.csproj.GenerateResource.cache
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.AssemblyInfoInputs.cache
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.AssemblyInfo.cs
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.csproj.CoreCompileInputs.cache
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.dll
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.pdb
+C:\Users\ddddd\source\repos\TikTakTo_NN_49102\TikTakTo_NN_49102\obj\Debug\netcoreapp3.1\TikTakTo_NN_49102.genruntimeconfig.cache
